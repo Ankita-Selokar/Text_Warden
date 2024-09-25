@@ -26,3 +26,6 @@ The project wrapped up with a win – a hate speech detection model smoothly int
 
 ## Reflection
 Navigating challenges associated with dataset integration and cleaning throughout the project underscored the pivotal role these aspects play in the success of machine learning applications. The insights derived from exploratory data analysis were instrumental in informing critical decisions at various stages, emphasising the significance of a data-driven approach. The decision to utilize Streamlit for web app development underscored the importance of thoughtful tool selection in enhancing user experience. This project not only showcased technical competencies in data preprocessing and machine learning but also highlighted the ability to make informed decisions grounded in comprehensive data analysis, a valuable skill set for future endeavors.
+
+
+![image alt](https://github.com/Ankita-Selokar/Text_Warden/blob/420d5009603e85e58fe7481bcf5c7677c46a1b34/TextWarden_HateDetected.jpg)
