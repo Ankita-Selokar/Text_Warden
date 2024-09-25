@@ -1,7 +1,10 @@
-# JediText
+# Text Warden
 Comparison of Multiple Classification algorithms for detecting Toxic or HateFull Comment
 
-## Situation
+## Problem Statement
+The rampant occurrence of toxic comments on social media poses a serious issue, leading to cyberbullying and mental health concerns. Addressing this, this project aims to develop an machine learning solution for precise detection of hateful texts. By deploying multiple machine learning models and evaluating their performance, we seek to create a robust system that can be seamlessly integrated across diverse technologies to combat the escalating problem of online toxicity
+
+## Challenge
 In the context of a project aimed at developing a hate speech detection web application, I encountered a complex challenge involving the amalgamation and processing of multiple datasets. These datasets, originating from diverse sources, required careful integration to form a cohesive and representative dataset suitable for training a hate speech detection model.
 
 ## Task
